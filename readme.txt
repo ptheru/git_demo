@@ -1,4 +1,4 @@
 Welcome to git demo
-hello from anotherdev
+line change from anotherdev
 added line from bugfix
 
