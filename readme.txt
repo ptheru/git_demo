@@ -9,3 +9,4 @@ restarted the function again
 line 1 from bdev
 line 2 from bdev
 checking diff
+checking diff2
